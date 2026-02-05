@@ -1,0 +1,13 @@
+{
+  "name": "tournoi-live",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'Vercel builds functions automatically'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.1"
+  }
+}
